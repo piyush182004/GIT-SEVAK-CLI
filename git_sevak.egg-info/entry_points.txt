@@ -1,0 +1,2 @@
+[console_scripts]
+git-sevak = git_sevak.cli:main

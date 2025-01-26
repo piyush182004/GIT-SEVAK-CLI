@@ -1,0 +1,13 @@
+README.md
+setup.py
+git_sevak/__init__.py
+git_sevak/cli.py
+git_sevak/git_operations.py
+git_sevak/github_api.py
+git_sevak/system_info.py
+git_sevak.egg-info/PKG-INFO
+git_sevak.egg-info/SOURCES.txt
+git_sevak.egg-info/dependency_links.txt
+git_sevak.egg-info/entry_points.txt
+git_sevak.egg-info/requires.txt
+git_sevak.egg-info/top_level.txt
