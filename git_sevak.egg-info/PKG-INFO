@@ -2,9 +2,9 @@ Metadata-Version: 2.2
 Name: git-sevak
 Version: 1.1.0
 Summary: A CLI tool for GitHub repository management and system information
-Home-page: https://github.com/yourusername/git-sevak
+Home-page: https://github.com/piyush182004/GIT-SEVAK-CLI
 Author: Piyush Mondal
-Author-email: your_email@example.com
+Author-linkedin: https://www.linkedin.com/in/piyush-mondal-a6588a277/
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
